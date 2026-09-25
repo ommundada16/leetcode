@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ommundada16/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ommundada16/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ommundada16/leetcode/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/ommundada16/leetcode/tree/master/0217-contains-duplicate) |
 | [1732-find-the-highest-altitude](https://github.com/ommundada16/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
@@ -48,8 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ommundada16/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ommundada16/leetcode/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/ommundada16/leetcode/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ommundada16/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ommundada16/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
