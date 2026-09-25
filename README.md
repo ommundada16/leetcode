@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ommundada16/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ommundada16/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ommundada16/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ommundada16/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ommundada16/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
 | [1732-find-the-highest-altitude](https://github.com/ommundada16/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ommundada16/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ommundada16/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ommundada16/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ommundada16/leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/ommundada16/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ommundada16/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ommundada16/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ommundada16/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -70,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ommundada16/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ommundada16/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
