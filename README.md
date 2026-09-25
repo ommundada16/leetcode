@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ommundada16/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ommundada16/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ommundada16/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/ommundada16/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
 | [1732-find-the-highest-altitude](https://github.com/ommundada16/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ommundada16/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ommundada16/leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/ommundada16/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,4 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ommundada16/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
