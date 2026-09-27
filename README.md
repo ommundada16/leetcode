@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ommundada16/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ommundada16/leetcode/tree/master/0242-valid-anagram) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ommundada16/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
@@ -93,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ommundada16/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ommundada16/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
