@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ommundada16/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ommundada16/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ommundada16/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ommundada16/leetcode/tree/master/0383-ransom-note) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ommundada16/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ommundada16/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ommundada16/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ommundada16/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/ommundada16/leetcode/tree/master/0383-ransom-note) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ommundada16/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ommundada16/leetcode/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
