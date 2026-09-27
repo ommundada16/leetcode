@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ommundada16/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ommundada16/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ommundada16/leetcode/tree/master/0242-valid-anagram) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ommundada16/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ommundada16/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ommundada16/leetcode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/ommundada16/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ommundada16/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ommundada16/leetcode/tree/master/0088-merge-sorted-array) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ommundada16/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ommundada16/leetcode/tree/master/0125-valid-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ommundada16/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
